@@ -1,0 +1,42 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.responsive-image {
+  max-width: 100%; 
+  display:block; 
+  height: auto;
+}
+
+.section{
+	padding-bottom: 50px;
+	
+}
+
+.apptext{
+	color: #ffffff;
+	text-align: center;
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} 
+
+#ABC {
+      background-color: #37474f;
+      width: 100%;
+      height: auto;
+    }
+.page-footer{
+	background-color: #ff6f00;
+}
+

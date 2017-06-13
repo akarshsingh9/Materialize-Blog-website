@@ -1,0 +1,14 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.page-footer{
+	background-color: #ff6f00;
+}
+
+
+.section{
+	padding-bottom: 30px;
+}
