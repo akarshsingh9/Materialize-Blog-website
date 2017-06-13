@@ -17,6 +17,10 @@ A blog website template created using Materialize CSS. This template contains 3 
 10) Twitter and Github Follow button for Author
 
 # Screenshots
+1) Blog List
+
 ![bloglist](https://user-images.githubusercontent.com/18751913/27064562-9fccd448-5015-11e7-81e0-a5de10596dd7.PNG)
+
+2) Blog
 
 ![blog](https://user-images.githubusercontent.com/18751913/27064581-b0fae6b0-5015-11e7-91c6-48b634d6cd30.PNG)
