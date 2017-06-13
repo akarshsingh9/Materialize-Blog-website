@@ -6,7 +6,7 @@ A blog website template created using Materialize CSS. This template contains 3 
 
 # Features
 1) Responsive design - Mobile First 
-2) Simplistic design
+2) Simplistic design and webpages load fast
 3) Website can be edited according to your preference
 4) Implements cards design and cards shadow (z-depth) can be adjusted
 5) Author section in blog to credit your content writers
@@ -15,3 +15,8 @@ A blog website template created using Materialize CSS. This template contains 3 
 8) Prism JS to highlight code in your article. Currenty only Python code. Import fresh Prism JS files to support other languages.
 9) Social Media share feature enabled
 10) Twitter and Github Follow button for Author
+
+# Screenshots
+![bloglist](https://user-images.githubusercontent.com/18751913/27064562-9fccd448-5015-11e7-81e0-a5de10596dd7.PNG)
+
+![blog](https://user-images.githubusercontent.com/18751913/27064581-b0fae6b0-5015-11e7-91c6-48b634d6cd30.PNG)
